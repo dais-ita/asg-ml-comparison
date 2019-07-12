@@ -1,0 +1,1 @@
+{"accuracy": 0.64, "f1_score": 0.7735849056603773, "train_time": 4.2893452644348145, "hyper_parameters": {"l2_penalty": 0.4, "hidden_layers": [16, 8, 4], "dropout_rate": 0.3}, "dataset_percentage": 5}

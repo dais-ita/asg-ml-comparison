@@ -1,0 +1,1 @@
+{"accuracy": 0.8088438507600184, "f1_score": 0.6297948260481713, "scores": {"tp": 1059, "tn": 4209, "fp": 740, "fn": 505}, "train_time": 0.26442742347717285, "hyper_parameters": {"lambda": 1e-05}, "dataset_percentage": 2}
